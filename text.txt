@@ -1,0 +1,17 @@
+<div id="collapsable-nav" class="collapse navbar-collapse">
+                <ul id="nav-list" class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="menu-categories.html">
+                            <span class="glyphicon glyphicon-cutlery"></span><br class="hidden-xs">menu</a>
+                    </li>
+                    <li>
+                        <a href="#"><span class="glyphicon glyphicon-info-sign"></span><br class="hiden-xs">about</a>
+                    </li>
+                    <li>
+                        <a href="#"><span class="glyphicon glyphicon-certificate"></span><br class="hiden-xs">awards</a>
+                    </li>
+                    <li id="phone" class="hiden-xs">
+                        <a href="tel:410-602-5008"><span>410-602-5008</span></a><div>* we deliver</div>
+                    </li>
+                </ul>
+            </div>
